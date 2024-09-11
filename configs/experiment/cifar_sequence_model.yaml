@@ -1,0 +1,12 @@
+name: "template"
+
+task:
+  _target_: tasks.???
+
+dataset:
+  _target_: datasets.???
+
+trainer:
+  max_epochs: ???
+
+callbacks: False
